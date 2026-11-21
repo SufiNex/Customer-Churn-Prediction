@@ -5,7 +5,7 @@ This Machine Learning project predicts whether a telecom customer is likely to l
 
 ## Technologies Used
 - Python
-- NumPy
+- NumPyREADME.md 
 - Pandas
 - Matplotlib
 - Seaborn
